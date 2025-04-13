@@ -1,0 +1,10 @@
+[project]
+name = "Romajizer"
+version = "0.1.0"
+description = "Transliterates Japanese text to the Latin/Roman alphabet using pykakasi."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "picard>=2.13.3",
+    "pykakasi>=2.3.0",
+]
