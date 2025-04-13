@@ -1,7 +1,7 @@
 [project]
-name = "Romajizer"
+name = "Picard Plugins"
 version = "0.1.0"
-description = "Transliterates Japanese text to the Latin/Roman alphabet using pykakasi."
+description = "Various picard plugins"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [

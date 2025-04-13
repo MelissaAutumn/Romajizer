@@ -1,4 +1,12 @@
-# Romajizer
+# Various Picard Scripts
+
+These are various picard plugin scripts. To install place the .py file in your plugin directory.
+
+## Primary Alias Retriever
+
+Like the below Romajizer but without pykakasi. So it just retrieves the english primary artist alias.
+
+## Romajizer
 
 This plugin attempts to retrieve the first English alias (mostly for Japanese artists.) If that fails and you have 
 [pykakasi](https://pykakasi.readthedocs.io/en/latest/index.html) installed on your system install of Python it will use
